@@ -10,4 +10,8 @@ describe 'fake work spec' do
     fail 'test to be implemented'
   end
 
+  it 'more tests yay' do
+    fail 'test to be implemented'
+  end
+
 end
