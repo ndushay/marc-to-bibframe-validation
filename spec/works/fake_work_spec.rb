@@ -6,4 +6,8 @@ describe 'fake work spec' do
     fail 'this is gonna fail'
   end
 
+  it 'another fake spec' do
+    fail 'test to be implemented'
+  end
+
 end
